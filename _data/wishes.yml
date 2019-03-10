@@ -111,14 +111,22 @@ gt50:
     link:
       amazon: https://www.amazon.co.uk/dp/B008MYXEHW/?coliid=IPC9XKT1B29K6&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
   - title: Smart Product Design
+    image: https://images.foyles.co.uk/xlarge/books/img/9/8/8/9789887757283.jpg
     link:
       amazon: https://www.amazon.co.uk/dp/9887757284/?coliid=I2UA51SE9PM4P9&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
   - title: The Art of Electronics
     price: 65.99
+    image: http://covers.openlibrary.org/b/isbn/9780521809269.jpg
     link:
       amazon: https://www.amazon.co.uk/dp/0521809266/?coliid=I16NN50VN0N39&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
       foyles: https://www.foyles.co.uk/witem/technical/the-art-of-electronics,paul-horowitz-winfield-hill-9780521809269
+  - title: Focusrite Scarlett 2i2 USB Audio interface
+    price: 109
+    image: https://58eca9fdf76150b92bfa-3586c28d09a33a8c605ed79290ca82aa.ssl.cf3.rackcdn.com/focusrite-scarlett-2i2-2nd-gen-403377.jpg
+    link:
+      gak: https://www.gak.co.uk/en/focusrite-scarlett-2i2-2nd-gen/77597
+      amazon: https://www.amazon.co.uk/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56EA/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1552228638&sr=1-1&keywords=Focusrite+Scarlett+2i2+USB
 
 
 
