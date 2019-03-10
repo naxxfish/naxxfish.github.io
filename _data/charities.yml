@@ -6,5 +6,7 @@
 # set the field `enable_charities` in `index.markdown`
 # from `true` to `false`.
 
-- title: CAIR
-  link: https://www.cair.com/donations/general-donation/campaign/#/donation
+- title: Cats Protection League
+  link: https://www.cats.org.uk/
+- title: Open Rights Group
+  link: https://www.openrightsgroup.org/
