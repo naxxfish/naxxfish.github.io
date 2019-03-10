@@ -159,9 +159,9 @@ gt50:
       amazon: https://amzn.to/2CdRCHc
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
   - title: Tile Pro - 2 pack
-     price: 50.00
-     link:
-       tile: https://www.thetileapp.com/en-gb/store/tiles/pro
+    price: 50.00
+    link:
+      tile: https://www.thetileapp.com/en-gb/store/tiles/pro
   - title: The Art of Electronics
     price: 65.99
     image: http://covers.openlibrary.org/b/isbn/9780521809269.jpg
