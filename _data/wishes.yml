@@ -23,6 +23,12 @@ lt20:
     link:
       foyles: https://www.foyles.co.uk/witem/art-fashion-photography/soviet-bus-stops,christopher-herwig-damon-murray-stephe-9780993191107
       amazon: https://www.amazon.co.uk/dp/099319110X/?coliid=I159F2OJAZFO14&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+  - title: The Story of Broadcasting House: Home of the BBC
+    image: https://covers.openlibrary.org/w/id/7485660-M.jpg
+    link: 
+      amazon: https://www.amazon.co.uk/dp/185894421X/?coliid=I2YF5AJWWMI1W&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      abebooks: https://www.abebooks.co.uk/9781858944210/Story-Broadcasting-House-Home-BBC-185894421X/plp
+      waterstones: https://www.waterstones.com/book/the-story-of-broadcasting-house/mark-hines/9781858944210#
   - title: Neewer Universal Photography Speedlite Flash Full Color Balance Gel Filter Kit 
     image: https://images-na.ssl-images-amazon.com/images/I/61JF-k-WHQL._SL1001_.jpg
     price: 5.49
@@ -38,5 +44,81 @@ lt20:
     price: 19.95
     link:
       amazon: https://www.amazon.co.uk/dp/B073S9N5JS/?coliid=I26FCKXFX8A7SF&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
+  - title: Inspector Sands T Shirt
+    image: https://www.moretvicar.com/media/product/2015/04/16/2112_11806_w800.jpg
+    link:
+      moretvicar: https://www.moretvicar.com/collection/londonist/product/inspector-sands-t-shirt
+  - title: Microplastic T-shirt
+    image: https://rapanuiclothing.com/uploaded/thumbnails/19214453/microplastic-1_19214453_640xauto.png
+    price: 19.00
+    link:
+      rapanui: https://rapanuiclothing.com/product/microplastics-t-shirt/
+  - title: Space Shuttle T-shirt
+    image: https://rapanuiclothing.com/uploaded/thumbnails/23164353/space-1_23164353_640xauto.png
+    price: 19.00
+    link:
+      rapanui: https://rapanuiclothing.com/product/space-shuttle-t-shirt/
+  - title: £25 Pact Coffee Gift Voucher
+    link:
+      pact: https://www.pactcoffee.com/gift
+  - title: Riut Zipped Cable Bags
+    image: https://cdn.shopify.com/s/files/1/1854/7911/products/Cable_pockets_1024x1024@2x.png?v=1545639654
+    price: 12.00
+    link:
+      riut: https://www.riut.co.uk/collections/all-products/products/two-zipped-cable-bags
+lt50:
+  - title: Anker [Upgraded] PowerCore Speed 20000
+    image: https://images-na.ssl-images-amazon.com/images/I/61XD9Ey%2BZvL._SL1500_.jpg
+    price: 30.59
+    link:
+      amazon: https://www.amazon.co.uk/dp/B01N0X3NL5/?coliid=IIWHLPQWHG2VB&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+  - title: 858D SMD LED Digital Display Soldering Desoldering Station Hot Air Rework Station
+    image: https://images-na.ssl-images-amazon.com/images/I/61V2JSrBWdL._SL1001_.jpg
+    price: 39.99
+    link:
+      amazon: https://www.amazon.co.uk/dp/B01IGRL90I/?coliid=I2WOREYOMRKFT0&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+  - title: Antlion Audio ModMic Attachable Boom Microphone, Unidirectional
+    image: https://www.scan.co.uk/images/products/super/2520346-l-a.jpg
+    link:
+      scan: https://www.scan.co.uk/products/antlion-modmic-(v40)-muteless-uni-directional-stick-on-boom-mic-converts-any-headphones-into-chat-ga
+  - title: Code Craft: The Practice of Writing Excellent Code
+    image: https://covers.openlibrary.org/w/id/870295-M.jpg
+    price: 35.99
+    link:
+      amazon: https://www.amazon.co.uk/dp/1593271190/?coliid=I11BA4LGZNVQR8&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      foyles: https://www.foyles.co.uk/witem/computing-it/code-craft,pete-goodliffe-9781593271190
+  - title: Toshiba FlashAir W-04 32 GB SDHC Class 10 Memory Card
+    price: 30.00
+    image: https://www.scan.co.uk/images/products/super/2984749-l-a.jpg
+    link:
+      amazon: https://www.amazon.co.uk/dp/B073LM5TRX/?coliid=I1LILGYK0X1RXT&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
+      scan: https://www.scan.co.uk/products/32gb-toshiba-flashair-w-04-sdhc-memory-card-class-10-uhs-i-class-3-u3-90mb-s-read-70mb-s-write-w-bui
+  - title: RiutBag Crush
+    image: https://cdn.shopify.com/s/files/1/1854/7911/products/black_daypack_light_backpack_anti_theft_buy_online_RiutBag_Crush_holiday_plain_2017_1024x1024@2x.png?v=1549359159
+    price: 39.00
+    link:
+      riut: https://www.riut.co.uk/collections/all-products/products/light-backpack-riutbag-crush-black
+
+gt50:
+  - title: FiiO E10K Olympus USB DAC and Headphone Amplifier
+    image: https://images-na.ssl-images-amazon.com/images/I/41Taa5DTsKL.jpg
+    price: 69.99
+    link: 
+      amazon: https://www.amazon.co.uk/FiiO-Olympus-Headphone-Amplifier-Black/dp/B00LP3AMC2
+  - title: OWL Intuition-E Energy Monitor
+    image: https://images-na.ssl-images-amazon.com/images/I/61yi-QgeL4L._SL1500_.jpg
+    price: 69.95
+    link:
+      amazon: https://www.amazon.co.uk/dp/B008MYXEHW/?coliid=IPC9XKT1B29K6&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+  - title: Smart Product Design
+    link:
+      amazon: https://www.amazon.co.uk/dp/9887757284/?coliid=I2UA51SE9PM4P9&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
+  - title: The Art of Electronics
+    price: 65.99
+    link:
+      amazon: https://www.amazon.co.uk/dp/0521809266/?coliid=I16NN50VN0N39&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      foyles: https://www.foyles.co.uk/witem/technical/the-art-of-electronics,paul-horowitz-winfield-hill-9780521809269
+
 
 
