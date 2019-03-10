@@ -1,49 +1,56 @@
 lt25:
   - title: Who Moved My Cheese?
-    image: https://covers.openlibrary.org/b/id/68177-M.jpg
+    image: http://covers.openlibrary.org/b/isbn/9780091816971.jpg
     price: 5.99
     link:
-      amazon: https://www.amazon.co.uk/Who-Moved-My-Cheese-Amazing/dp/0091816971/ref=tmm_pap_swatch_0?_encoding=UTF8&coliid=I2KKQ6MZRBF6WQ&colid=3F0DESHB4NZFQ&qid=&sr=
+      amazon: https://amzn.to/2XQX1wP
       foyles: https://www.foyles.co.uk/witem/business/who-moved-my-cheese,spencer-johnson-9780091816971
   - title: ReWork
-    image: https://covers.openlibrary.org/w/id/6679955-M.jpg
+    image: http://covers.openlibrary.org/b/isbn/9780091929787.jpg
     link:
-      amazon: https://www.amazon.co.uk/ReWork-Change-Way-Work-Forever/dp/0091929784/ref=sr_1_1?s=books&ie=UTF8&qid=1552224817&sr=1-1&keywords=rework
+      amazon: https://amzn.to/2Hc6f1E
       foyles: https://www.foyles.co.uk/witem/business/rework-change-the-way-you-work-forever,david-heinemeier-hansson-jason-fried-9780091929787
     price: 12.99
   - title: It Doesn't Have to Be Crazy at Work
-    image: https://covers.openlibrary.org/b/id/8359215-M.jpg
+    image: http://covers.openlibrary.org/b/isbn/9780008323448.jpg  
     price: 12.99
     link:
-      amazon: https://www.amazon.co.uk/dp/0008323445/?coliid=I1R13UROM0IAO9&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2F0QoAX
       foyles: https://www.foyles.co.uk/witem/business/it-doesnt-have-to-be-crazy-at-work,jason-fried-david-heinemeier-hansson-9780008323448
   - title: Soviet Bus Stops
-    image: https://images.foyles.co.uk/xlarge/books/img/0/9/9/9780993191107.jpg
+    image: shttp://covers.openlibrary.org/b/isbn/9780993191107.jpg
     price: 19.95
     link:
+      amazon: https://amzn.to/2HcJHhd
       foyles: https://www.foyles.co.uk/witem/art-fashion-photography/soviet-bus-stops,christopher-herwig-damon-murray-stephe-9780993191107
-      amazon: https://www.amazon.co.uk/dp/099319110X/?coliid=I159F2OJAZFO14&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
   - title: The Story of Broadcasting House
-    image: https://covers.openlibrary.org/w/id/7485660-M.jpg
+    image: http://covers.openlibrary.org/b/isbn/9781858944210.jpg
+    price: 18.99
     link: 
-      amazon: https://www.amazon.co.uk/dp/185894421X/?coliid=I2YF5AJWWMI1W&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2F0QR6b
       abebooks: https://www.abebooks.co.uk/9781858944210/Story-Broadcasting-House-Home-BBC-185894421X/plp
       waterstones: https://www.waterstones.com/book/the-story-of-broadcasting-house/mark-hines/9781858944210#
+  - title: Big Data, Does Size Matter?
+    image: https://images.foyles.co.uk/xlarge/books/img/1/4/7/9781472920072.jpg
+    price: 9.99
+    link:
+      foyles: https://www.foyles.co.uk/witem/computing-it/big-data-does-size-matter,timandra-harkness-9781472920072
+      amazon: https://amzn.to/2NSLE2T
   - title: Neewer Universal Photography Speedlite Flash Full Color Balance Gel Filter Kit 
     image: https://images-na.ssl-images-amazon.com/images/I/61JF-k-WHQL._SL1001_.jpg
     price: 5.49
     link:
-      amazon: https://www.amazon.co.uk/dp/B00QN48X0Q/?coliid=I30TX80QFB9TVR&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2NTYK07
   - title: Phot-R 3m Light Stand Adjustable
     image: https://images-na.ssl-images-amazon.com/images/I/51MBCnIsTLL._SL1500_.jpg
     price: 16.95
     link:
-      amazon: https://www.amazon.co.uk/dp/B00MOM61AA/?coliid=IAU2MWGRAJ3QH&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2NRrLth
   - title: Phot-R 2 m Adjustable Portable Heavy Duty Telescopic Extendable Crossbar 
     image: https://images-na.ssl-images-amazon.com/images/I/71sQqHCXieL._SL1500_.jpg
     price: 19.95
     link:
-      amazon: https://www.amazon.co.uk/dp/B073S9N5JS/?coliid=I26FCKXFX8A7SF&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2XJf2xj
   - title: Inspector Sands T Shirt (M)
     image: https://www.moretvicar.com/media/product/2015/04/16/2112_11806_w800.jpg
     link:
@@ -63,47 +70,65 @@ lt25:
     image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
     link:
       teespring: https://tspr.ng/c/Wintergatan-navy-eu
-  - title: £25 Pact Coffee Gift Voucher
-    link:
-      pact: https://www.pactcoffee.com/gift
   - title: Riut Zipped Cable Bags
     image: https://cdn.shopify.com/s/files/1/1854/7911/products/Cable_pockets_1024x1024@2x.png?v=1545639654
     price: 12.00
     link:
       riut: https://www.riut.co.uk/collections/all-products/products/two-zipped-cable-bags
+  - title: SAMFARMER deoderant
+    image: http://www.samfarmer.co/files/samfarmer/styles/lightbox/public/products/DEO_new_50ml_white%20copy.jpg?itok=KsOUmFfM
+    price: 4.50
+    link:
+      samfarmer: http://www.samfarmer.co/shop/deodorant
+  - title: £25 Pact Coffee Gift Voucher
+    price: 25.00
+    link:
+      pact: https://www.pactcoffee.com/gift
+
 lt50:
   - title: Anker [Upgraded] PowerCore Speed 20000
     image: https://images-na.ssl-images-amazon.com/images/I/61XD9Ey%2BZvL._SL1500_.jpg
     price: 30.59
     link:
-      amazon: https://www.amazon.co.uk/dp/B01N0X3NL5/?coliid=IIWHLPQWHG2VB&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2NSEyf0
   - title: 858D SMD LED Digital Display Soldering Desoldering Station Hot Air Rework Station
     image: https://images-na.ssl-images-amazon.com/images/I/61V2JSrBWdL._SL1001_.jpg
     price: 39.99
     link:
-      amazon: https://www.amazon.co.uk/dp/B01IGRL90I/?coliid=I2WOREYOMRKFT0&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2HbhnvO
+  - title: JavaJug2
+    price: 20.00
+    image: https://javagear.co/wp-content/uploads/2018/01/JJ2_Cutout_edit.jpg
+    link:
+      javagear: https://javagear.co/product/javajug2/
   - title: Antlion Audio ModMic Attachable Boom Microphone, Unidirectional
     image: https://www.scan.co.uk/images/products/super/2520346-l-a.jpg
+    price: 34.99
     link:
       scan: https://www.scan.co.uk/products/antlion-modmic-(v40)-muteless-uni-directional-stick-on-boom-mic-converts-any-headphones-into-chat-ga
+  - title: NOMADIC FURNITURE; D.I.Y Projects That Are Lightweight and Light on the Environment
+    image: http://covers.openlibrary.org/b/isbn/9780764330247.jpg
+    price: 28.00
+    link:
+      amazon: https://amzn.to/2NSF9gK
+      foyles: https://www.foyles.co.uk/witem/home-garden/nomadic-furniture-diy-projects-that-a,james-hennessey-9780764330247
   - title: Beautiful Code, Leading Programmers Explain How They Think
     image: http://covers.openlibrary.org/b/isbn/9780596510046.jpg
     price: 29.99
     link:
       amazon: https://amzn.to/2NRn7LT
       foyles: https://www.foyles.co.uk/witem/computing-it/beautiful-code,greg-wilson-andy-oram-9780596510046
-
   - title: Code Craft The Practice of Writing Excellent Code
     image: http://covers.openlibrary.org/b/isbn/9781593271190.jpg
     price: 35.99
     link:
-      amazon: https://www.amazon.co.uk/dp/1593271190/?coliid=I11BA4LGZNVQR8&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2NUI6NN
       foyles: https://www.foyles.co.uk/witem/computing-it/code-craft,pete-goodliffe-9781593271190
   - title: Toshiba FlashAir W-04 32 GB SDHC Class 10 Memory Card
     price: 30.00
     image: https://www.scan.co.uk/images/products/super/2984749-l-a.jpg
     link:
-      amazon: https://www.amazon.co.uk/dp/B073LM5TRX/?coliid=I1LILGYK0X1RXT&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2F0A8zC
       scan: https://www.scan.co.uk/products/32gb-toshiba-flashair-w-04-sdhc-memory-card-class-10-uhs-i-class-3-u3-90mb-s-read-70mb-s-write-w-bui
   - title: RiutBag Crush
     image: https://cdn.shopify.com/s/files/1/1854/7911/products/black_daypack_light_backpack_anti_theft_buy_online_RiutBag_Crush_holiday_plain_2017_1024x1024@2x.png?v=1549359159
@@ -126,25 +151,26 @@ gt50:
     image: https://images-na.ssl-images-amazon.com/images/I/61yi-QgeL4L._SL1500_.jpg
     price: 69.95
     link:
-      amazon: https://www.amazon.co.uk/dp/B008MYXEHW/?coliid=IPC9XKT1B29K6&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2F0QWqv
   - title: Smart Product Design
     image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
     price: 47.99
     link:
-      amazon: https://www.amazon.co.uk/dp/9887757284/?coliid=I2UA51SE9PM4P9&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2CdRCHc
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
+  - title: Tile Pro - 2 pack
+   price: 50.00
+   link:
+    tile: https://www.thetileapp.com/en-gb/store/tiles/pro
   - title: The Art of Electronics
     price: 65.99
     image: http://covers.openlibrary.org/b/isbn/9780521809269.jpg
     link:
-      amazon: https://www.amazon.co.uk/dp/0521809266/?coliid=I16NN50VN0N39&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
+      amazon: https://amzn.to/2F1yqOO
       foyles: https://www.foyles.co.uk/witem/technical/the-art-of-electronics,paul-horowitz-winfield-hill-9780521809269
   - title: Focusrite Scarlett 2i2 USB Audio interface
     price: 109
     image: https://58eca9fdf76150b92bfa-3586c28d09a33a8c605ed79290ca82aa.ssl.cf3.rackcdn.com/focusrite-scarlett-2i2-2nd-gen-403377.jpg
     link:
       gak: https://www.gak.co.uk/en/focusrite-scarlett-2i2-2nd-gen/77597
-      amazon: https://www.amazon.co.uk/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56EA/ref=sr_1_1?s=musical-instruments&ie=UTF8&qid=1552228638&sr=1-1&keywords=Focusrite+Scarlett+2i2+USB
-
-
-
+      amazon: https://amzn.to/2EZzd2G
