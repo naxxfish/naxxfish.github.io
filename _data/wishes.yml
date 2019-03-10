@@ -1,4 +1,4 @@
-lt20:
+lt25:
   - title: Who Moved My Cheese?
     image: https://covers.openlibrary.org/b/id/68177-M.jpg
     price: 5.99
@@ -44,20 +44,25 @@ lt20:
     price: 19.95
     link:
       amazon: https://www.amazon.co.uk/dp/B073S9N5JS/?coliid=I26FCKXFX8A7SF&colid=3F0DESHB4NZFQ&psc=1&ref_=lv_ov_lig_dp_it
-  - title: Inspector Sands T Shirt
+  - title: Inspector Sands T Shirt (M)
     image: https://www.moretvicar.com/media/product/2015/04/16/2112_11806_w800.jpg
     link:
       moretvicar: https://www.moretvicar.com/collection/londonist/product/inspector-sands-t-shirt
-  - title: Microplastic T-shirt
+  - title: Microplastic T-shirt (M)
     image: https://rapanuiclothing.com/uploaded/thumbnails/19214453/microplastic-1_19214453_640xauto.png
     price: 19.00
     link:
       rapanui: https://rapanuiclothing.com/product/microplastics-t-shirt/
-  - title: Space Shuttle T-shirt
+  - title: Space Shuttle T-shirt (M)
     image: https://rapanuiclothing.com/uploaded/thumbnails/23164353/space-1_23164353_640xauto.png
     price: 19.00
     link:
       rapanui: https://rapanuiclothing.com/product/space-shuttle-t-shirt/
+  - title: Marble Machine X "I Believe" (M)
+    price: 22.12
+    image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
+    link:
+      teespring: https://tspr.ng/c/Wintergatan-navy-eu
   - title: £25 Pact Coffee Gift Voucher
     link:
       pact: https://www.pactcoffee.com/gift
@@ -81,8 +86,15 @@ lt50:
     image: https://www.scan.co.uk/images/products/super/2520346-l-a.jpg
     link:
       scan: https://www.scan.co.uk/products/antlion-modmic-(v40)-muteless-uni-directional-stick-on-boom-mic-converts-any-headphones-into-chat-ga
+  - title: Beautiful Code, Leading Programmers Explain How They Think
+    image: http://covers.openlibrary.org/b/isbn/9780596510046.jpg
+    price: 29.99
+    link:
+      amazon: https://amzn.to/2NRn7LT
+      foyles: https://www.foyles.co.uk/witem/computing-it/beautiful-code,greg-wilson-andy-oram-9780596510046
+
   - title: Code Craft The Practice of Writing Excellent Code
-    image: https://covers.openlibrary.org/w/id/870295-M.jpg
+    image: http://covers.openlibrary.org/b/isbn/9781593271190.jpg
     price: 35.99
     link:
       amazon: https://www.amazon.co.uk/dp/1593271190/?coliid=I11BA4LGZNVQR8&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
@@ -116,7 +128,8 @@ gt50:
     link:
       amazon: https://www.amazon.co.uk/dp/B008MYXEHW/?coliid=IPC9XKT1B29K6&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
   - title: Smart Product Design
-    image: https://images.foyles.co.uk/xlarge/books/img/9/8/8/9789887757283.jpg
+    image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
+    price: 47.99
     link:
       amazon: https://www.amazon.co.uk/dp/9887757284/?coliid=I2UA51SE9PM4P9&colid=3F0DESHB4NZFQ&psc=0&ref_=lv_ov_lig_dp_it
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
