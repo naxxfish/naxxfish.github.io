@@ -140,6 +140,11 @@ lt50:
     price: 37.00
     link:
       rapanui: https://rapanuiclothing.com/product/mens-boxer-shorts-5-pack/
+  - title: Mind the Gap Navy Hoodie - Medium
+    image: https://www.ltmuseumshop.co.uk/tco-images/unsafe/trim/fit-in/769x769/center/middle/smart/filters:fill(white):sharpen(0.5,0.5,true)/https://www.ltmuseumshop.co.uk//static/media/catalog/product/m/i/mindthegap_hoodie_web_2.jpg
+    price: 35
+    link:
+      tfl: https://www.ltmuseumshop.co.uk/clothing/adult/mind-the-gap-navy-hoodie-36538?sc_lid=254244793&sc_uid=rAQA0HFXvP&sc_llid=41931&sc_eh=1c76ad681a8e6bfc1#selection=size:Medium__9
 
 gt50:
   - title: FiiO E10K Olympus USB DAC and Headphone Amplifier
