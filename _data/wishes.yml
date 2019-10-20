@@ -41,16 +41,6 @@ lt25:
     price: 5.49
     link:
       amazon: https://amzn.to/2NTYK07
-  - title: Phot-R 3m Light Stand Adjustable
-    image: https://images-na.ssl-images-amazon.com/images/I/51MBCnIsTLL._SL1500_.jpg
-    price: 16.95
-    link:
-      amazon: https://amzn.to/2NRrLth
-  - title: Phot-R 2 m Adjustable Portable Heavy Duty Telescopic Extendable Crossbar 
-    image: https://images-na.ssl-images-amazon.com/images/I/71sQqHCXieL._SL1500_.jpg
-    price: 19.95
-    link:
-      amazon: https://amzn.to/2XJf2xj
   - title: Inspector Sands T Shirt (M)
     image: https://www.moretvicar.com/media/product/2015/04/16/2112_11806_w800.jpg
     link:
@@ -89,6 +79,11 @@ lt25:
     price: 9.00
     link:
       tfl: https://www.ltmuseumshop.co.uk/clothing/adult/district-line-moquette-socks#selection=size:4-7__39402
+  - title: Hario Cold Brew Coffee Pot
+    price: 19.99
+    link:
+      hario: https://www.hario.co.uk/collections/coffee-brew-cold-brew/products/cold-brew-coffee-pot-medium?variant=10227966574628
+      pact: https://www.pactcoffee.com/brewing-equipment/hario-cold-brew-jug
   - title: £25 Pact Coffee Gift Voucher
     price: 25.00
     link:
@@ -151,21 +146,17 @@ gt50:
     price: 69.99
     link: 
       amazon: https://www.amazon.co.uk/FiiO-Olympus-Headphone-Amplifier-Black/dp/B00LP3AMC2
-  - title: OWL Intuition-E Energy Monitor
-    image: https://images-na.ssl-images-amazon.com/images/I/61yi-QgeL4L._SL1500_.jpg
-    price: 69.95
+  - title: Shelly EM
+    image: https://shelly.cloud/wp-content/uploads/2019/05/features.png
+    price: 45.00
     link:
-      amazon: https://amzn.to/2F0QWqv
+      amazon: https://shelly.cloud/product/wifi-smart-home-automation-shelly-em-energy-meter/
   - title: Smart Product Design
     image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
     price: 47.99
     link:
       amazon: https://amzn.to/2CdRCHc
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
-  - title: Tile Pro - 2 pack
-    price: 50.00
-    link:
-      tile: https://www.thetileapp.com/en-gb/store/tiles/pro
   - title: The Art of Electronics
     price: 65.99
     image: http://covers.openlibrary.org/b/isbn/9780521809269.jpg
