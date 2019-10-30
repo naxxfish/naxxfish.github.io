@@ -1,4 +1,19 @@
 lt25:
+  - title: District Line Moquette Socks
+    image: https://www.ltmuseumshop.co.uk/tco-images/unsafe/trim/fit-in/769x769/center/middle/smart/filters:fill(white):sharpen(0.5,0.5,true)/https://www.ltmuseumshop.co.uk//static/media/catalog/product/d/i/district_sock_web_final_1.jpg
+    price: 9.00
+    link:
+      tfl: https://www.ltmuseumshop.co.uk/clothing/adult/district-line-moquette-socks#selection=size:4-7__39402
+  - title: Hario Cold Brew Coffee Pot
+    price: 19.99
+    image: https://cdn.shopify.com/s/files/1/0065/2718/9028/products/MCPN-7B-EX_1024x1024@2x.jpg?v=1563790211
+    link:
+      hario: https://www.hario.co.uk/collections/coffee-brew-cold-brew/products/cold-brew-coffee-pot-medium?variant=10227966574628
+      pact: https://www.pactcoffee.com/brewing-equipment/hario-cold-brew-jug
+  - title: Coffee Break T-shirt
+    image: https://cdn2.bigcommerce.com/server5500/do13wb/products/7772/images/16831/coffee_1__23719.1510250206.386.513.jpg?c=2
+    link: 
+      thirdestate: https://thethirdestate.co.uk/coffee-break-t-white/
   - title: Who Moved My Cheese?
     image: http://covers.openlibrary.org/b/isbn/9780091816971.jpg
     price: 5.99
@@ -74,17 +89,7 @@ lt25:
     price: 4.50
     link:
       samfarmer: http://www.samfarmer.co/shop/deodorant
-  - title: District Line Moquette Socks
-    image: https://www.ltmuseumshop.co.uk/tco-images/unsafe/trim/fit-in/769x769/center/middle/smart/filters:fill(white):sharpen(0.5,0.5,true)/https://www.ltmuseumshop.co.uk//static/media/catalog/product/d/i/district_sock_web_final_1.jpg
-    price: 9.00
-    link:
-      tfl: https://www.ltmuseumshop.co.uk/clothing/adult/district-line-moquette-socks#selection=size:4-7__39402
-  - title: Hario Cold Brew Coffee Pot
-    price: 19.99
-    image: https://cdn.shopify.com/s/files/1/0065/2718/9028/products/MCPN-7B-EX_1024x1024@2x.jpg?v=1563790211
-    link:
-      hario: https://www.hario.co.uk/collections/coffee-brew-cold-brew/products/cold-brew-coffee-pot-medium?variant=10227966574628
-      pact: https://www.pactcoffee.com/brewing-equipment/hario-cold-brew-jug
+
   - title: £25 Pact Coffee Gift Voucher
     price: 25.00
     link:
@@ -102,7 +107,7 @@ lt50:
     link:
       amazon: https://amzn.to/2HbhnvO
   - title: JavaJug2
-    price: 20.00
+    price: 40.00
     image: https://javagear.co/wp-content/uploads/2018/01/JJ2_Cutout_edit.jpg
     link:
       javagear: https://javagear.co/product/javajug2/
@@ -140,6 +145,16 @@ lt50:
     price: 35
     link:
       tfl: https://www.ltmuseumshop.co.uk/clothing/adult/mind-the-gap-navy-hoodie-36538?sc_lid=254244793&sc_uid=rAQA0HFXvP&sc_llid=41931&sc_eh=1c76ad681a8e6bfc1#selection=size:Medium__9
+  - title: wash // bag
+    image: https://cdn.shopify.com/s/files/1/0228/3209/products/IMG_9127_1080x.jpg?v=1542740504
+    price: 35.00
+    link:
+      wyattandjack: https://www.wyattandjack.com/collections/i-was-a-bouncy-castle/products/wash-bag?variant=6817181827132
+  - title: Camera T
+    image: https://cdn2.bigcommerce.com/server5500/do13wb/products/7769/images/16827/camera__26789.1510250174.1280.1280.jpg?c=2
+    price: 28.00
+    link:
+      thirdestate: https://thethirdestate.co.uk/camera-t-charcoal/
 
 gt50:
   - title: FiiO E10K Olympus USB DAC and Headphone Amplifier
