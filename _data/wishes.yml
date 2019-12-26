@@ -1,9 +1,4 @@
 lt25:
-  - title: District Line Moquette Socks
-    image: https://www.ltmuseumshop.co.uk/tco-images/unsafe/trim/fit-in/769x769/center/middle/smart/filters:fill(white):sharpen(0.5,0.5,true)/https://www.ltmuseumshop.co.uk//static/media/catalog/product/d/i/district_sock_web_final_1.jpg
-    price: 9.00
-    link:
-      tfl: https://www.ltmuseumshop.co.uk/clothing/adult/district-line-moquette-socks#selection=size:4-7__39402
   - title: Hario Cold Brew Coffee Pot
     price: 19.99
     image: https://cdn.shopify.com/s/files/1/0065/2718/9028/products/MCPN-7B-EX_1024x1024@2x.jpg?v=1563790211
@@ -75,11 +70,6 @@ lt25:
     image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
     link:
       teespring: https://tspr.ng/c/Wintergatan-navy-eu
-  - title: Riut Zipped Cable Bags
-    image: https://cdn.shopify.com/s/files/1/1854/7911/products/10_1c588729-93a4-4433-8394-768042446461_1024x1024@2x.png?v=1570949389
-    price: 12.00
-    link:
-      riut: https://www.riut.co.uk/collections/all-products/products/two-zipped-cable-bags
   - title: How to draw noir comics
     price: 17.99
     link:
@@ -101,11 +91,6 @@ lt50:
     price: 30.59
     link:
       amazon: https://amzn.to/2NSEyf0
-  - title: 858D SMD LED Digital Display Soldering Desoldering Station Hot Air Rework Station
-    image: https://images-na.ssl-images-amazon.com/images/I/61V2JSrBWdL._SL1001_.jpg
-    price: 39.99
-    link:
-      amazon: https://amzn.to/2HbhnvO
   - title: JavaJug2
     price: 40.00
     image: https://javagear.co/wp-content/uploads/2018/01/JJ2_Cutout_edit.jpg
