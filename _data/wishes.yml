@@ -79,18 +79,11 @@ lt25:
     price: 4.50
     link:
       samfarmer: http://www.samfarmer.co/shop/deodorant
-
   - title: £25 Pact Coffee Gift Voucher
     price: 25.00
     link:
       pact: https://www.pactcoffee.com/gift
-
 lt50:
-  - title: Anker [Upgraded] PowerCore Speed 20000
-    image: https://images-na.ssl-images-amazon.com/images/I/61XD9Ey%2BZvL._SL1500_.jpg
-    price: 30.59
-    link:
-      amazon: https://amzn.to/2NSEyf0
   - title: JavaJug2
     price: 40.00
     image: https://javagear.co/wp-content/uploads/2018/01/JJ2_Cutout_edit.jpg
@@ -125,11 +118,6 @@ lt50:
     price: 39.00
     link:
       riut: https://www.riut.co.uk/collections/all-products/products/light-backpack-riutbag-crush-black
-  - title: Mind the Gap Navy Hoodie - Medium
-    image: https://www.ltmuseumshop.co.uk/tco-images/unsafe/trim/fit-in/769x769/center/middle/smart/filters:fill(white):sharpen(0.5,0.5,true)/https://www.ltmuseumshop.co.uk//static/media/catalog/product/m/i/mindthegap_hoodie_web_2.jpg
-    price: 35
-    link:
-      tfl: https://www.ltmuseumshop.co.uk/clothing/adult/mind-the-gap-navy-hoodie-36538?sc_lid=254244793&sc_uid=rAQA0HFXvP&sc_llid=41931&sc_eh=1c76ad681a8e6bfc1#selection=size:Medium__9
   - title: wash // bag
     image: https://cdn.shopify.com/s/files/1/0228/3209/products/IMG_9127_1080x.jpg?v=1542740504
     price: 35.00
