@@ -1,5 +1,6 @@
 lt25:
   - title: Hario Cold Brew Coffee Pot
+    bought: true
     price: 19.99
     image: https://cdn.shopify.com/s/files/1/0065/2718/9028/products/MCPN-7B-EX_1024x1024@2x.jpg?v=1563790211
     link:
@@ -114,6 +115,7 @@ lt50:
       amazon: https://amzn.to/2F0A8zC
       scan: https://www.scan.co.uk/products/32gb-toshiba-flashair-w-04-sdhc-memory-card-class-10-uhs-i-class-3-u3-90mb-s-read-70mb-s-write-w-bui
   - title: RiutBag Crush
+    bought: true
     image: https://cdn.shopify.com/s/files/1/1854/7911/products/black_daypack_light_backpack_anti_theft_buy_online_RiutBag_Crush_holiday_plain_2017_1024x1024@2x.png?v=1549359159
     price: 39.00
     link:
