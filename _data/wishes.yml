@@ -1,4 +1,11 @@
 lt25:
+  - title: "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design"
+    bought: false
+    price: 14.6
+    image: https://covers.openlibrary.org/b/id/10461165-L.jpg
+    link:
+      amazon: https://www.amazon.co.uk/99-Invisible-City-Hidden-Everyday/dp/1529355273
+      info: https://g.co/kgs/mq3R9e
   - title: Hario Cold Brew Coffee Pot
     bought: true
     price: 19.99
@@ -80,16 +87,8 @@ lt25:
     price: 4.50
     link:
       samfarmer: http://www.samfarmer.co/shop/deodorant
-  - title: £25 Pact Coffee Gift Voucher
-    price: 25.00
-    link:
-      pact: https://www.pactcoffee.com/gift
+
 lt50:
-  - title: JavaJug2
-    price: 40.00
-    image: https://javagear.co/wp-content/uploads/2018/01/JJ2_Cutout_edit.jpg
-    link:
-      javagear: https://javagear.co/product/javajug2/
   - title: NOMADIC FURNITURE; D.I.Y Projects That Are Lightweight and Light on the Environment
     image: http://covers.openlibrary.org/b/isbn/9780764330247.jpg
     price: 28.00
@@ -108,12 +107,6 @@ lt50:
     link:
       amazon: https://amzn.to/2NUI6NN
       foyles: https://www.foyles.co.uk/witem/computing-it/code-craft,pete-goodliffe-9781593271190
-  - title: Toshiba FlashAir W-04 32 GB SDHC Class 10 Memory Card
-    price: 30.00
-    image: https://www.scan.co.uk/images/products/super/2984749-l-a.jpg
-    link:
-      amazon: https://amzn.to/2F0A8zC
-      scan: https://www.scan.co.uk/products/32gb-toshiba-flashair-w-04-sdhc-memory-card-class-10-uhs-i-class-3-u3-90mb-s-read-70mb-s-write-w-bui
   - title: RiutBag Crush
     bought: true
     image: https://cdn.shopify.com/s/files/1/1854/7911/products/black_daypack_light_backpack_anti_theft_buy_online_RiutBag_Crush_holiday_plain_2017_1024x1024@2x.png?v=1549359159
@@ -132,11 +125,6 @@ lt50:
       thirdestate: https://thethirdestate.co.uk/camera-t-charcoal/
 
 gt50:
-  - title: Shelly EM
-    image: https://shelly.cloud/wp-content/uploads/2019/05/features.png
-    price: 45.00
-    link:
-      amazon: https://shelly.cloud/product/wifi-smart-home-automation-shelly-em-energy-meter/
   - title: Smart Product Design
     image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
     price: 47.99
@@ -149,12 +137,6 @@ gt50:
     link:
       amazon: https://amzn.to/2F1yqOO
       foyles: https://www.foyles.co.uk/witem/technical/the-art-of-electronics,paul-horowitz-winfield-hill-9780521809269
-  - title: Focusrite Scarlett 2i2 USB Audio interface
-    price: 109
-    image: https://58eca9fdf76150b92bfa-3586c28d09a33a8c605ed79290ca82aa.ssl.cf3.rackcdn.com/focusrite-scarlett-2i2-2nd-gen-403377.jpg
-    link:
-      gak: https://www.gak.co.uk/en/focusrite-scarlett-2i2-2nd-gen/77597
-      amazon: https://amzn.to/2EZzd2G
   - title: Novation Launchpad
     price: 130
     image: https://www.scan.co.uk/images/products/super/2570234-l-b.jpg
