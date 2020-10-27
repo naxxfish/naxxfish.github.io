@@ -54,39 +54,45 @@ lt25:
     link:
       foyles: https://www.foyles.co.uk/witem/computing-it/big-data-does-size-matter,timandra-harkness-9781472920072
       amazon: https://amzn.to/2NSLE2T
-  - title: Neewer Universal Photography Speedlite Flash Full Color Balance Gel Filter Kit 
-    image: https://images-na.ssl-images-amazon.com/images/I/61JF-k-WHQL._SL1001_.jpg
-    price: 5.49
-    link:
-      amazon: https://amzn.to/2NTYK07
-  - title: Inspector Sands T Shirt (M)
+  - title: Inspector Sands T Shirt (Large)
     image: https://www.moretvicar.com/media/product/2015/04/16/2112_11806_w800.jpg
     link:
       moretvicar: https://www.moretvicar.com/collection/londonist/product/inspector-sands-t-shirt
-  - title: Microplastic T-shirt (M)
+  - title: Microplastic T-shirt (Large)
     image: https://rapanuiclothing.com/uploaded/thumbnails/19214453/microplastic-1_19214453_640xauto.png
     price: 19.00
     link:
       rapanui: https://rapanuiclothing.com/product/microplastics-t-shirt/
-  - title: Space Shuttle T-shirt (M)
+  - title: Space Shuttle T-shirt (Large)
     image: https://rapanuiclothing.com/uploaded/thumbnails/23164353/space-1_23164353_640xauto.png
     price: 19.00
     link:
       rapanui: https://rapanuiclothing.com/product/space-shuttle-t-shirt/
+  - title: Toghether T-shirt (Large)
+    price: 19.00
+    image: https://teemill.co.uk/uploaded/thumbnails/55596602/frbgrdpxsaa7ytlvvocbi9vew9quevpd0cqabmonsi4nmxdx_55596602_1080xauto.png
+    link:
+      rapanui: https://rapanuiclothing.com/product/together-t-shirt/
   - title: Marble Machine X "I Believe" (M)
     price: 22.12
     image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
     link:
       teespring: https://tspr.ng/c/Wintergatan-navy-eu
-  - title: How to draw noir comics
-    price: 17.99
+  - title: 125 T (Navy, L)
+    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-41348-5-1.jpg
+    price: 15.00
     link:
-      foyles: https://www.foyles.co.uk/witem/architecture-design/how-to-draw-noir-comics,shawn-martinbrough-9780823024063
-  - title: SAMFARMER deoderant
-    image: http://www.samfarmer.co/files/samfarmer/styles/lightbox/public/products/DEO_new_50ml_white%20copy.jpg?itok=KsOUmFfM
-    price: 4.50
+      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/as-worn-by-gv/p/125-t/
+  - title: Platform 0 (White, L)
+    price: 15.00
+    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-55671-1-1.jpg
     link:
-      samfarmer: http://www.samfarmer.co/shop/deodorant
+      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/as-worn-by-gv/p/platform-zero-white-t/
+  - title: Corrour Tshirt (Orange, L)
+    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-30130-48-1.jpg
+    price: 15.00
+    link:
+      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/p/choose-corrour-t-fruit-of-the-loom/
 
 lt50:
   - title: NOMADIC FURNITURE; D.I.Y Projects That Are Lightweight and Light on the Environment
@@ -125,6 +131,11 @@ lt50:
       thirdestate: https://thethirdestate.co.uk/camera-t-charcoal/
 
 gt50:
+  - title: Men's Organic Cotton Flannel Shirt (Large, Purple Flannel)
+    price: 50.00
+    image: https://teemill.co.uk/uploaded/thumbnails/62531636/ynuks3mehwvdvjwoj3efbni2jiyhx5glvluypft4yod3lne1_62531636_1080xauto.png
+    link:
+      rapanui: https://rapanuiclothing.com/product/men-s-organic-cotton-flannel-shirt/
   - title: Smart Product Design
     image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
     price: 47.99
