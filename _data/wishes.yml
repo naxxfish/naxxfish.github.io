@@ -18,31 +18,31 @@ lt25:
     link: 
       thirdestate: https://thethirdestate.co.uk/coffee-break-t-white/
   - title: Who Moved My Cheese?
-    image: http://covers.openlibrary.org/b/isbn/9780091816971.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780091816971.jpg
     price: 5.99
     link:
       amazon: https://amzn.to/2XQX1wP
       foyles: https://www.foyles.co.uk/witem/business/who-moved-my-cheese,spencer-johnson-9780091816971
   - title: ReWork
-    image: http://covers.openlibrary.org/b/isbn/9780091929787.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780091929787.jpg
     link:
       amazon: https://amzn.to/2Hc6f1E
       foyles: https://www.foyles.co.uk/witem/business/rework-change-the-way-you-work-forever,david-heinemeier-hansson-jason-fried-9780091929787
     price: 12.99
   - title: It Doesn't Have to Be Crazy at Work
-    image: http://covers.openlibrary.org/b/isbn/9780008323448.jpg  
+    image: https://covers.openlibrary.org/b/isbn/9780008323448.jpg  
     price: 12.99
     link:
       amazon: https://amzn.to/2F0QoAX
       foyles: https://www.foyles.co.uk/witem/business/it-doesnt-have-to-be-crazy-at-work,jason-fried-david-heinemeier-hansson-9780008323448
   - title: Soviet Bus Stops
-    image: http://covers.openlibrary.org/b/isbn/9780993191107.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780993191107.jpg
     price: 19.95
     link:
       amazon: https://amzn.to/2HcJHhd
       foyles: https://www.foyles.co.uk/witem/art-fashion-photography/soviet-bus-stops,christopher-herwig-damon-murray-stephe-9780993191107
   - title: The Story of Broadcasting House
-    image: http://covers.openlibrary.org/b/isbn/9781858944210.jpg
+    image: https://covers.openlibrary.org/b/isbn/9781858944210.jpg
     price: 18.99
     link: 
       amazon: https://amzn.to/2F0QR6b
@@ -92,19 +92,19 @@ lt25:
 
 lt50:
   - title: NOMADIC FURNITURE; D.I.Y Projects That Are Lightweight and Light on the Environment
-    image: http://covers.openlibrary.org/b/isbn/9780764330247.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780764330247.jpg
     price: 28.00
     link:
       amazon: https://amzn.to/2NSF9gK
       foyles: https://www.foyles.co.uk/witem/home-garden/nomadic-furniture-diy-projects-that-a,james-hennessey-9780764330247
   - title: Beautiful Code, Leading Programmers Explain How They Think
-    image: http://covers.openlibrary.org/b/isbn/9780596510046.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780596510046.jpg
     price: 29.99
     link:
       amazon: https://amzn.to/2NRn7LT
       foyles: https://www.foyles.co.uk/witem/computing-it/beautiful-code,greg-wilson-andy-oram-9780596510046
   - title: Code Craft The Practice of Writing Excellent Code
-    image: http://covers.openlibrary.org/b/isbn/9781593271190.jpg
+    image: https://covers.openlibrary.org/b/isbn/9781593271190.jpg
     price: 35.99
     link:
       amazon: https://amzn.to/2NUI6NN
@@ -133,14 +133,14 @@ gt50:
     link:
       rapanui: https://rapanuiclothing.com/product/men-s-organic-cotton-flannel-shirt/
   - title: Smart Product Design
-    image: http://covers.openlibrary.org/b/isbn/9789887757283.jpg
+    image: https://covers.openlibrary.org/b/isbn/9789887757283.jpg
     price: 47.99
     link:
       amazon: https://amzn.to/2CdRCHc
       foyles: https://www.foyles.co.uk/witem/architecture-design/smart-product-design,sendpoints-9789887757283
   - title: The Art of Electronics
     price: 65.99
-    image: http://covers.openlibrary.org/b/isbn/9780521809269.jpg
+    image: https://covers.openlibrary.org/b/isbn/9780521809269.jpg
     link:
       amazon: https://amzn.to/2F1yqOO
       foyles: https://www.foyles.co.uk/witem/technical/the-art-of-electronics,paul-horowitz-winfield-hill-9780521809269
