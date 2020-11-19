@@ -70,21 +70,6 @@ lt25:
     image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
     link:
       teespring: https://teespring.com/shop/Wintergatan-navy-black?pid=387&cid=101811
-  - title: 125 T (Navy, L)
-    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-41348-5-1.jpg
-    price: 15.00
-    link:
-      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/as-worn-by-gv/p/125-t/
-  - title: Platform 0 (White, L)
-    price: 15.00
-    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-55671-1-1.jpg
-    link:
-      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/as-worn-by-gv/p/platform-zero-white-t/
-  - title: Corrour Tshirt (Orange, L)
-    image: https://stores.clothes2order.com/images/uploads/product_images/small/6799-30130-48-1.jpg
-    price: 15.00
-    link:
-      clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/p/choose-corrour-t-fruit-of-the-loom/
   - title: Recursive Tshirt (Purple, Medium)
     image: https://images.teemill.com/5d11d736316a29.37036189.png.png?w=1080&h=auto
     price: 17.00
