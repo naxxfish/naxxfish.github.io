@@ -85,6 +85,21 @@ lt25:
     price: 15.00
     link:
       clothes2order: https://stores.clothes2order.com/dztzstore/all-the-stations/p/choose-corrour-t-fruit-of-the-loom/
+  - title: Recursive Tshirt (Purple, Medium)
+    image: https://images.teemill.com/5d11d736316a29.37036189.png.png?w=1080&h=auto
+    price: 17.00
+    link:
+      teemill: https://fotsn.teemill.com/product/recursive-t-shirt-parallel-version-white-print-fitted-/
+  - title: Shapes on a Plane (Purple, Medium)
+    image: https://images.teemill.com/5d225a4b93d577.43964988.png.png?w=1080&h=auto
+    price: 20.00
+    link:
+      teemill: https://fotsn.teemill.com/product/shapes-on-a-plane-t-shirt-unisex-/
+  - title: Seven-way Venn diagram (Black, Medium)
+    image: https://images.teemill.com/5d88bd28084cb2.69185353.png.png?w=1080&h=auto
+    price: 36.00
+    link:
+      teemill: https://fotsn.teemill.com/product/seven-way-venn-diagram-inspired-by-branko-grunbaum-hoodie-/
 
 lt50:
   - title: NOMADIC FURNITURE; D.I.Y Projects That Are Lightweight and Light on the Environment
