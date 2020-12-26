@@ -1,6 +1,6 @@
 lt25:
   - title: "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design"
-    bought: false
+    bought: true
     price: 14.6
     image: https://covers.openlibrary.org/b/id/10461165-L.jpg
     link:
@@ -20,6 +20,7 @@ lt25:
       amazon: https://amzn.to/2XQX1wP
       foyles: https://www.foyles.co.uk/witem/business/who-moved-my-cheese,spencer-johnson-9780091816971
   - title: ReWork
+    bought: true
     image: https://covers.openlibrary.org/b/isbn/9780091929787.jpg
     link:
       amazon: https://amzn.to/2Hc6f1E
@@ -32,6 +33,7 @@ lt25:
       amazon: https://amzn.to/2F0QoAX
       foyles: https://www.foyles.co.uk/witem/business/it-doesnt-have-to-be-crazy-at-work,jason-fried-david-heinemeier-hansson-9780008323448
   - title: Soviet Bus Stops
+    bought: true
     image: https://images.foyles.co.uk/xlarge/books/img/0/9/9/9780993191107.jpg
     price: 19.95
     link:
@@ -45,12 +47,14 @@ lt25:
       abebooks: https://www.abebooks.co.uk/9781858944210/Story-Broadcasting-House-Home-BBC-185894421X/plp
       waterstones: https://www.waterstones.com/book/the-story-of-broadcasting-house/mark-hines/9781858944210#
   - title: Big Data, Does Size Matter?
+    bought: true
     image: https://images.foyles.co.uk/xlarge/books/img/1/4/7/9781472920072.jpg
     price: 9.99
     link:
       foyles: https://www.foyles.co.uk/witem/computing-it/big-data-does-size-matter,timandra-harkness-9781472920072
       amazon: https://amzn.to/2NSLE2T
   - title: Microplastic T-shirt (Large)
+    bought: true
     image: https://rapanuiclothing.com/uploaded/thumbnails/19214453/microplastic-1_19214453_640xauto.png
     price: 19.00
     link:
@@ -124,6 +128,7 @@ lt50:
 
 gt50:
   - title: Men's Organic Cotton Flannel Shirt (Large, Purple Flannel)
+    bought: true
     price: 50.00
     image: https://teemill.co.uk/uploaded/thumbnails/62531636/ynuks3mehwvdvjwoj3efbni2jiyhx5glvluypft4yod3lne1_62531636_1080xauto.png
     link:
