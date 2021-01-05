@@ -60,6 +60,15 @@ lt25:
     link:
       foyles: https://www.foyles.co.uk/witem/computing-it/big-data-does-size-matter,timandra-harkness-9781472920072
       amazon: https://amzn.to/2NSLE2T
+  - title: London Underground Mug (Waterloo and City, Central, Bakerloo, H&C, Metropolitan)
+    image: https://media.ltmuseumshop.co.uk/pub/media/catalog/product/cache/2fad86e42c6dbf8b5c03674d8e7e0fac/m/u/mug_waterloo_city_2.jpg
+    link:
+      ltmshop: https://www.ltmuseumshop.co.uk/homeware/category/mugs-cups/london-underground-mug
+  - title: London Underground Tube Map T-Shirt (M)
+    image: https://www.ltmuseumshop.co.uk/clothing/clothing/adult/london-underground-tube-map-t-shirt
+    price: 18.00
+    link:
+      ltmshop: https://www.ltmuseumshop.co.uk/clothing/clothing/adult/london-underground-tube-map-t-shirt
   - title: Microplastic T-shirt (Large)
     bought: true
     image: https://rapanuiclothing.com/uploaded/thumbnails/19214453/microplastic-1_19214453_640xauto.png
@@ -76,6 +85,11 @@ lt25:
     image: https://teemill.co.uk/uploaded/thumbnails/55596602/frbgrdpxsaa7ytlvvocbi9vew9quevpd0cqabmonsi4nmxdx_55596602_1080xauto.png
     link:
       rapanui: https://rapanuiclothing.com/product/together-t-shirt/
+  - title: This T-shirt is Rubbish (M)
+    image: https://images.teemill.com/wnuwfqupsmkgae9gwxvsqzrr8zv2kzgg7zoeftehaqaar2cf.png.webp?w=1080&h=auto
+    price: 20.00
+    link:
+      rapanui: https://rapanuiclothing.com/product/men-s-this-t-shirt-is-rubbish/
   - title: Marble Machine X "I Believe" (M)
     price: 22.12
     image: https://vangogh.teespring.com/static.jpg?height=570&image_url=https%3A%2F%2Fs3.amazonaws.com%2Fteespring-pub-custom%2F6d5_71970727_product_387_101811_front.png&padded=false&signature=56Jxw2cHlfBvg1Q%2FjYsPXFIGdBkcEgijmQny0sC%2Fq6A%3D&version=2019-03-08-00-10&width=480
