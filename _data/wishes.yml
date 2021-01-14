@@ -1,4 +1,13 @@
 lt25:
+  - title: Derelict London: All New Edition
+    price: 10.99
+    image: https://www.derelictlondon.com/uploads/5/6/0/3/5603187/derelict-london-cover-web_orig.jpg
+    link:
+      amazon: https://www.amazon.co.uk/gp/product/1847948383/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1847948383&linkCode=as2&tag=derelictlondo-21&linkId=ea6012a89c27f1df5ee7e18c9de771c4
+  - title: The Tube Mapper Project (signed)
+    price: 40.00
+    link:
+      tubemapper: https://tubemapper.com/signed-tube-mapper-project-book-signed-print/
   - title: Staedtler Fineliner Pigment Liner 0.5mm Black (or several)
     price: 3.83
     image: https://assets.londongraphics-static.co.uk/media/catalog/product/cache/4/image/640x/17f82f742ffe127f42dca9de82fb58b1/l/-/l-7504000547_staedtler_pigment_liner_0.5mm_black_1.jpg
