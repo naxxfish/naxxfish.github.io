@@ -58,6 +58,7 @@ lt25:
       foyles: https://www.foyles.co.uk/witem/art-fashion-photography/soviet-bus-stops,christopher-herwig-damon-murray-stephe-9780993191107
   - title: The Story of Broadcasting House
     image: https://covers.openlibrary.org/b/isbn/9781858944210.jpg
+    bought: true
     price: 18.99
     link: 
       amazon: https://amzn.to/2F0QR6b
@@ -117,6 +118,7 @@ lt25:
     link:
       teemill: https://fotsn.teemill.com/product/shapes-on-a-plane-t-shirt-unisex-/
   - title: Seven-way Venn diagram (Black, Medium)
+    bought: true
     image: https://images.teemill.com/5d88bd28084cb2.69185353.png.png?w=1080&h=auto
     price: 36.00
     link:
