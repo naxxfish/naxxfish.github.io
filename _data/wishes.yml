@@ -79,6 +79,7 @@ lt25:
   - title: London Underground Tube Map T-Shirt (M)
     image: https://media.ltmuseumshop.co.uk/pub/media/catalog/product/cache/2fad86e42c6dbf8b5c03674d8e7e0fac/b/l/black_map_adult_1_5.jpg
     price: 18.00
+    bought: true
     link:
       ltmshop: https://www.ltmuseumshop.co.uk/clothing/clothing/adult/london-underground-tube-map-t-shirt
   - title: Microplastic T-shirt (Large)
