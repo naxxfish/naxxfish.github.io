@@ -6,6 +6,7 @@ lt25:
       amazon: https://www.amazon.co.uk/gp/product/1847948383/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=1847948383&linkCode=as2&tag=derelictlondo-21&linkId=ea6012a89c27f1df5ee7e18c9de771c4
   - title: The Tube Mapper Project (signed)
     price: 40.00
+    bought: true
     image: https://tubemapper.com/wp-content/uploads/2020/12/book-print-signed-web-1024x682.jpg
     link:
       tubemapper: https://tubemapper.com/signed-tube-mapper-project-book-signed-print/
